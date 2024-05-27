@@ -1,5 +1,5 @@
 # 简介 #
-本项目基于faceai开源形目，实现了Django网站
+本项目基于faceai开源项目，实现了Django网站
 
 # 功能 #
 
