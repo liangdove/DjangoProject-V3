@@ -15,19 +15,14 @@
 10. 眼动追踪（待完善）
 11. 换脸（待完善）
 
-**查看功能预览↓↓↓**
-
 # 开发环境 #
 
 - Windows 10（x64）
-- Python 3.6.4
-- OpenCV 3.4.1
+- Python 3.8
+- OpenCV 4.3.12
 - Dlib 19.8.1
 - face_recognition 1.2.2
-- keras 2.1.6
-- tensorflow 1.8.0
-- Tesseract OCR 4.0.0-beta.1
-
+- Django 4.2
 ### TODO ###
 
 换脸——待完善
